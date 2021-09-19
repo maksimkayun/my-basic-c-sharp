@@ -1,0 +1,16 @@
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\bin\Debug\net5.0\whatDoing1.exe
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\bin\Debug\net5.0\whatDoing1.deps.json
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\bin\Debug\net5.0\whatDoing1.runtimeconfig.json
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\bin\Debug\net5.0\whatDoing1.runtimeconfig.dev.json
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\bin\Debug\net5.0\whatDoing1.dll
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\bin\Debug\net5.0\ref\whatDoing1.dll
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\bin\Debug\net5.0\whatDoing1.pdb
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.csproj.AssemblyReference.cache
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.AssemblyInfoInputs.cache
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.AssemblyInfo.cs
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.csproj.CoreCompileInputs.cache
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.dll
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\ref\whatDoing1.dll
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.pdb
+C:\Users\Dushevno\Desktop\Git\whatDoing1\whatDoing1\whatDoing1\obj\Debug\net5.0\whatDoing1.genruntimeconfig.cache
