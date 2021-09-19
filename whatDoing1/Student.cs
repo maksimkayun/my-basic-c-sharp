@@ -60,6 +60,7 @@ namespace whatDoing1
             get;
         }
         
+        // Cвойство-5 Телефон
         public string Phone {
             set;
             get;
