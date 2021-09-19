@@ -20,8 +20,7 @@ namespace whatDoing1
             
             // Списывает или нет?
             Console.WriteLine('\n'+ "Проверка на списывание случайного студента: " + Student.WriteOff());
-            
-            
+
             // История про жильё
             s_4.Housing = "Общежитие";
             Console.WriteLine('\n'+ "Узнаем, кто где живёт...");
@@ -43,6 +42,12 @@ namespace whatDoing1
             Console.WriteLine('\n' + "Спросим студентов, что они делают...");
             Console.WriteLine(s_1.Chill());
             Console.WriteLine(s_2.Chill());
+            
+            // Ситуация со списыванием...
+            Console.WriteLine('\n' + "Попросим списать у студента...");
+            Console.WriteLine(s_1.LetMeWriteItOff());
+            Console.WriteLine("Попросим списать за деньги у студента... (500 руб)");
+            Console.WriteLine(s_1.LetMeWriteItOff(500));
         }
     }
 }

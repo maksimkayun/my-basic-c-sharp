@@ -139,8 +139,8 @@ namespace whatDoing1
         // Метод - "Дай списать!" перегруженный
         public string LetMeWriteItOff(int money) {
             // Оценим доброту и щедрость студента
-            int r = new Random().Next(101) + (money / 2);
-            if (r < 51) {
+            int r = new Random().Next(101) + (money / 4);
+            if (r < 140) {
                 return "Нууу, вот, держи, но не уверен за правильность...";
             }
             else {
