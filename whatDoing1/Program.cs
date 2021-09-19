@@ -48,6 +48,11 @@ namespace whatDoing1
             Console.WriteLine(s_1.LetMeWriteItOff());
             Console.WriteLine("Попросим списать за деньги у студента... (500 руб)");
             Console.WriteLine(s_1.LetMeWriteItOff(500));
+            
+            s_1.Dispose();
+            s_2.Dispose();
+            s_3.Dispose();
+            s_4.Dispose();
         }
     }
 }

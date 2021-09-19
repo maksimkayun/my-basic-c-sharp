@@ -2,7 +2,7 @@
 
 namespace whatDoing1
 {
-    public class Student
+    public class Student : IDisposable
     {
         // Поля. Уровень доступа prootected 
         protected static int idstatic;
@@ -179,15 +179,15 @@ namespace whatDoing1
             string result = "";
             switch (mood) {
                 case 2: {
-                    result = "Я сейчас учусь";
+                    result = "На чилле";
                     break;
                 }
                 case 3: {
-                    result = "Программирую...";
+                    result = "Я сейчас учусь";
                     break;
                 }
                 case 4: {
-                    result = "На чилле";
+                    result = "Программирую...";
                     break;
                 }
                 default: {
@@ -196,6 +196,14 @@ namespace whatDoing1
                 }
             }
             return result;
+        }
+        
+        // Финализатор
+        ~Student() {
+            Console.WriteLine("Меня отчислили...");
+        }
+        public void Dispose() {
+            Console.WriteLine("Меня отчислили...");
         }
     }
 }
