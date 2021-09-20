@@ -205,5 +205,6 @@ namespace whatDoing1
         public void Dispose() {
             Console.WriteLine("Меня отчислили...");
         }
+        //protected override void Finalize() => Console.WriteLine("Меня отчислили...");
     }
 }
