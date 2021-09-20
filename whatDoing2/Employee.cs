@@ -2,7 +2,7 @@
 
 namespace whatDoing2
 {
-    public class Employee : Intern
+    public sealed class Employee : Intern
     {
         private string job;
         public Employee(string fullname, int age, string job) : base(fullname, age) {
