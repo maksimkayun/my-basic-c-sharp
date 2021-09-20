@@ -15,7 +15,7 @@ namespace whatDoing2
         public override string Name {
             get
             {
-                return $"Моё имя {firstName} {lastName}, приятно познакомиться! \n" + Friends;
+                return $"Моё имя {firstName} {lastName}, мой возраст: {age}, приятно познакомиться! \n" + Friends;
             }
             protected set
             {
