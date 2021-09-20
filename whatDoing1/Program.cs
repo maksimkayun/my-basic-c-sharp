@@ -49,6 +49,7 @@ namespace whatDoing1
             Console.WriteLine("Попросим списать за деньги у студента... (500 руб)");
             Console.WriteLine(s_1.LetMeWriteItOff(500));
             
+            // Отчисляем студентов
             s_1.Dispose();
             s_2.Dispose();
             s_3.Dispose();
