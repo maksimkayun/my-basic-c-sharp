@@ -200,7 +200,7 @@ namespace whatDoing1
         
         // Финализатор
         ~Student() {
-            Console.WriteLine("Меня отчислили...");
+            Dispose();
         }
         public void Dispose() {
             Console.WriteLine("Меня отчислили...");

@@ -30,22 +30,28 @@ namespace whatDoing2
             get
             {
                 string ending = "";
-                switch (friends % 10) {
-                    case 0 or 5 or 6 or 7 or 8 or 9: {
-                        if (friends == 0) {
-                            ending = "пока нет друзей(((";
+                if (friends is > 9 and < 20) {
+                    ending = "друзей!";
+                }
+                else {
+                    switch (friends % 10) {
+                        case 0 or 5 or 6 or 7 or 8 or 9: {
+                            if (friends == 0) {
+                                ending = "пока нет друзей(((";
+                                break;
+                            }
+
+                            ending = "друзей!";
                             break;
                         }
-                        ending = "друзей!";
-                        break;
-                    }
-                    case 1: {
-                        ending = "друг!";
-                        break;
-                    }
-                    case 2 or 3 or 4: {
-                        ending = "друга!";
-                        break;
+                        case 1: {
+                            ending = "друг!";
+                            break;
+                        }
+                        case 2 or 3 or 4: {
+                            ending = "друга!";
+                            break;
+                        }
                     }
                 }
 

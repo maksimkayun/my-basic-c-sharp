@@ -27,7 +27,7 @@ namespace whatDoing2
         public override string Name {
             get
             {
-                return $"Моё имя {firstName} {lastName}, мне {Age}. Моё место стажировки: {Internship}";
+                return $"Моё имя {firstName} {lastName}, мне {Age}. {Internship}";
             }
             protected set
             {
